@@ -1,4 +1,4 @@
-# Operating Systems: C, processes, IPC, synchronization, semaphores and mutual exclusion
+# Operating Systems: C programms with processes, IPC, synchronization, semaphores and mutual exclusion
 # General Structure (multiproc1.c / multiproc2.c) 
 
 The general skeleton consists of the main() function with int argc, char *argv[] arguments. 
